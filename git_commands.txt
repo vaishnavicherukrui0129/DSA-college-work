@@ -1,0 +1,4 @@
+Step 1 - git init -- initialize git 
+step 2 - git add . -- add all files in the present folder
+step 3 - git commit -m "your mesage" -- create commit
+step 4 - git push -u origin main  -- pust into github
