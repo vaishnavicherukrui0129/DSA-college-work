@@ -1,3 +1,6 @@
+/*A system stores unique integer identification numbers using a Binary Search Tree.
+Write a C program to insert n values, display inorder, preorder and postorder traversals, search for a specified value, and report whether it exists.
+Use the output to explain why inorder traversal produces sorted values. */
 #include <stdio.h>
 #include <stdlib.h>
 
