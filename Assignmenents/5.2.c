@@ -1,3 +1,6 @@
+/*A transportation network contains cities connected by roads with different costs.
+Write a C program implementing Dijkstra’s Shortest Path Algorithm that accepts the number of vertices,Create weighted adjacency matrix and source vertex,
+computes the minimum distance from the source to every other vertex, and displays each destination with its shortest distance. Test it using at least five vertices. */
 #include <stdio.h>
 
 #define INF 99999
