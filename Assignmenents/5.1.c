@@ -1,3 +1,6 @@
+/*A network of n locations is represented as a graph.Write a C program that accepts the graph using an Adjacency Matrix,
+accepts a starting vertex, performs a graph traversal,displays the visit order, and ensures that a vertex is not processed repeatedly.
+Test it with connected and partially connected graphs. */
 #include <stdio.h>
 
 int a[20][20], visited[20], n;
